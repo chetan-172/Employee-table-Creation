@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\app\\black\\product\\21c\\dbhomeXE\\jdbc\\lib\\ojdbc11_g.jar"
+    ]
+}
