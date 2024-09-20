@@ -3,6 +3,7 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\app\\black\\product\\21c\\dbhomeXE\\jdbc\\lib\\ojdbc11_g.jar"
+        "c:\\app\\black\\product\\21c\\dbhomeXE\\jdbc\\lib\\ojdbc11_g.jar",
+        "d:\\Oracle\\mysql-connector-j-9.0.0\\mysql-connector-j-9.0.0.jar"
     ]
 }
